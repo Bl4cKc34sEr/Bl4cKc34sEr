@@ -31,7 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4ckc34ser&layout=compact" alt="bl4ckc34ser" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bl4ckc34ser&theme=blue-green&show_icons=true" alt="bl4ckc34ser" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Bl4cKc34sEr/Bl4cKc34sEr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
