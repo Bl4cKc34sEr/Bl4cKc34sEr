@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1> 
 <h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
 <p align="center">
-![](app.gif)
+  <img width="460" height="300" src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/app.gif">
 </p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> </p>
 
 - 🔭 I’m currently working on [GoTechie](https://gotechie.ml)
