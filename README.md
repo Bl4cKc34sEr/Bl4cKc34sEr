@@ -37,4 +37,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img width="260" height="100" src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/git_animado.gif">
 </p>
-
+<p float="left">
+  <img src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/giphy.gif" width="100" />
+  <img src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/octocat.gif" width="100" /> 
+  <img src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/git_animado.gif" width="100" />
+</p>
