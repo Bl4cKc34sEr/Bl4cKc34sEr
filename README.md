@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1>
+<h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1> ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> </p>
@@ -30,7 +30,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bl4ckc34ser&theme=blue-green&show_icons=true" alt="bl4ckc34ser" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 ![](git_animado.gif)
+![](giphy.gif)
+![](P3S8.gif)
+![](octocat.gif)
+![](app.gif)
+![](fb0f017e191bc307d99055cae13a9ec1.gif) 
