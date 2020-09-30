@@ -38,6 +38,6 @@
 </p>
 <p float="left">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
-  <img src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/octocat.gif" width="200" /> 
-  <img src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/git_animado.gif" width="200" />
+  <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="200" /> 
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="200" />
 </p>
