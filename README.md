@@ -4,8 +4,10 @@
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> </p>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> 
+  <img src=https://visitor-badge.glitch.me/badge?page_id=page.id) />
+</p>
 - 🔭 I’m currently working on [GoTechie](https://gotechie.ml)
 
 - 🌱 I’m currently learning **Go Lang. , Unity Development**
