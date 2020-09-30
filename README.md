@@ -1,6 +1,7 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1> ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1> 
 <h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
+
 ![](app.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> </p>
