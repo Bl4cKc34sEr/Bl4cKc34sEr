@@ -6,7 +6,7 @@
 </p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> 
-  <img src=https://visitor-badge.glitch.me/badge?page_id=page.id) />
+  <img src=https://img.shields.io/badge/visitors-4103-blue) />
 </p>
 - 🔭 I’m currently working on [GoTechie](https://gotechie.ml)
 
@@ -38,5 +38,5 @@
 <p float="left">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="200" /> 
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" height="180 "width="300" />
 </p>
