@@ -32,8 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bl4ckc34ser&theme=blue-green&show_icons=true" alt="bl4ckc34ser" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bl4cKc34sEr)](https://github.com/anuraghazra/github-readme-stats)
-
-https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white
+[![unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)]
 https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white
 https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
