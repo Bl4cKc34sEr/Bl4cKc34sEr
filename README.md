@@ -36,7 +36,7 @@
   <img align="center" width="400" height="300" src=https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <p float="left">
-  <a href="https://linkedin.com/in/shivanshu-sharma" target="blank"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" />
+  <a href="https://github.com/Bl4cKc34sEr" target="blank"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" />
   <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="180" /> 
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" height="180 "width="260" />
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="180"/>
