@@ -37,7 +37,7 @@
 </p>
 <p float="left">
   <a href="https://github.com/Bl4cKc34sEr" target="blank"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="180" /> 
+  <a href="https://www.gotechie.ml" target="blank"><img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="180" /> 
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" height="180 "width="260" />
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="180"/>
 </p>
