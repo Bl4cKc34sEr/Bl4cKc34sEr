@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1> 
-<h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
-<p align="center">
+ <body style="background-color:grey;">
+  <h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1> 
+ <h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
+ <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif">
-</p>
-<p align="left"> 
+ </p>
+ <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> 
   <img src=https://img.shields.io/badge/visitors-403-blue) />
-</p>
+ </p>
 - 🔭 I’m currently working on [GoTechie](https://gotechie.ml)
 
 - 🌱 I’m currently learning **Go Lang. , Unity Development**
@@ -40,3 +41,4 @@
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" height="180 "width="260" />
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="180"/>
 </p>
+</body>
