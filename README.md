@@ -1,3 +1,5 @@
+ <!DOCTYPE html>
+<html>
  <body style="background-color:grey;">
   <h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1> 
  <h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
@@ -42,3 +44,4 @@
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="180"/>
 </p>
 </body>
+</html>
