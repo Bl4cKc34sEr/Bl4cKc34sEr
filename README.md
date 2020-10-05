@@ -7,7 +7,7 @@
  </p>
  <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> 
-  <img src=https://img.shields.io/badge/visitors-403-blue) />
+  <img src=https://img.shields.io/badge/build-pass-blue) />
  </p>
 - 🔭 I’m currently working on [GoTechie](https://gotechie.ml)
 
