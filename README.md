@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1> 
  <h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
  <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif">
+  <img width="400" height="240" src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif">
  </p>
  <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> 
