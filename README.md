@@ -4,7 +4,6 @@
  <h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
  <p align="center">
   <img width="400" height="240" src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif">
-  
   </p>
  <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> 
@@ -30,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/shivanshu-sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivanshu sharma" height="30" width="40" /></a>
 </p>
-<img align="center" src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/Bl4cKc34sE.JPG" alt="Bl4cKc34sEr" />
+<img align="center" src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/Bl4cKc34sE.JPG" alt="Shivanshu Sharma" />
 <p float="left">
   <img align="left" max-width="40%" height=210 src=https://github-readme-stats.vercel.app/api?username=Bl4cKc34sEr&show_icons=true&theme=radical alt="Bl4cKc34sEr" /></p>
   <img align="center" max-width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Bl4cKc34sEr&hide=css,java,html&theme=tokyonight
