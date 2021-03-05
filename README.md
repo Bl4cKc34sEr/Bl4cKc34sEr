@@ -1,9 +1,10 @@
 
-  <img align="center" src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/I%20'M.png" />
+  <img align="center" src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/I%20'M.png" alt="Bl4cKc34sEr" />
   <h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1> 
  <h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
  <p align="center">
   <img width="400" height="240" src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif">
+  <script src="https://www.hackthebox.eu/badge/304027"></script>
  </p>
  <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> 
