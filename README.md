@@ -4,8 +4,8 @@
  <h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
  <p align="center">
   <img width="400" height="240" src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif">
+  </p>
   <script src="https://www.hackthebox.eu/badge/304027"></script>
- </p>
  <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bl4ckc34ser" alt="bl4ckc34ser" /> 
   <img src=https://img.shields.io/badge/build-pass-blue) />
