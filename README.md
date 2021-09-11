@@ -1,4 +1,4 @@
-
+<body>
   <img align="center" src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/I%20'M.png" alt="Bl4cKc34sEr" />
   <h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1> 
  <h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
@@ -32,8 +32,7 @@
 <img align="center" src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/Bl4cKc34sE.JPG" alt="Shivanshu Sharma" />
 <script src="https://www.hackthebox.eu/badge/304027"></script>
 <p float="left">
-  
-  <img align="left" max-width="40%" height=210 src=https://github-readme-stats.vercel.app/api?username=Bl4cKc34sEr&show_icons=true&theme=radical alt="Bl4cKc34sEr" /></p>
+ <img align="left" max-width="40%" height=210 src=https://github-readme-stats.vercel.app/api?username=Bl4cKc34sEr&show_icons=true&theme=radical alt="Bl4cKc34sEr" /></p>
   <img align="center" max-width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Bl4cKc34sEr&hide=css,java,html&theme=tokyonight
 </p>
 <p float="left">
@@ -43,3 +42,4 @@
   <a href="https://github.com/Bl4cKc34sEr/Dragoman--The-Decoder" target="blank"><img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="180"/>
 </p>
 
+    </body>
