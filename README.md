@@ -30,8 +30,9 @@
 </p>
 <h1> HackTheBox 👨‍💻 </h1>
 <img align="center" src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/Bl4cKc34sE.JPG" alt="Shivanshu Sharma" />
+<script src="https://www.hackthebox.eu/badge/304027"></script>
 <p float="left">
-  <script src="https://www.hackthebox.eu/badge/304027"></script>
+  
   <img align="left" max-width="40%" height=210 src=https://github-readme-stats.vercel.app/api?username=Bl4cKc34sEr&show_icons=true&theme=radical alt="Bl4cKc34sEr" /></p>
   <img align="center" max-width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Bl4cKc34sEr&hide=css,java,html&theme=tokyonight
 </p>
