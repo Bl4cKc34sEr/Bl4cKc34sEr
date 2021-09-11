@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/shivanshu-sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivanshu sharma" height="30" width="40" /></a>
 </p>
 <h1> HackTheBox 👨‍💻 </h1>
-<script src="https://www.hackthebox.eu/badge/304027"></script>
+
 <img align="center" src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/Bl4cKc34sE.JPG" alt="Shivanshu Sharma" />
 
 <p float="left">
