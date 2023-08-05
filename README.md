@@ -1,7 +1,7 @@
 <body>
   <img align="center" src="https://github.com/Bl4cKc34sEr/Bl4cKc34sEr/blob/master/I%20'M.png" alt="Bl4cKc34sEr" />
   <h1 align="center">Hi 👋, I'm Shivanshu Sharma</h1> 
- <h3 align="center">A Cyber-Security Enthusiast and Developer for Hobby....</h3>
+ <h3 align="center">A Cloud an Security Enthusiast and Developer for Hobby....</h3>
  <p align="center">
   <img width="400" height="240" src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif">
   </p>
@@ -11,17 +11,17 @@
  </p>
 - 🔭 I’m currently working on [GoTechie](https://gotechie.ml)
 
-- 🌱 I’m currently learning **Go Lang. , Unity Development**
+- 🌱 I’m currently learning **Kubernetes with Terraform, ECS and EKS**
 
-- 👯 I’m looking to collaborate on **Cyber-Tools**
+- 👯 I’m looking to collaborate on **DevOps Automation with EKS**
 
 - 🤝 I’m looking for help with [GITthatUSER](https://github.com/Bl4cKc34sEr/GITthatUSER)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bl4cKc34sEr/](https://github.com/Bl4cKc34sEr/)
 
-- 📝 I regulary write articles on [https://gotechie.ml](https://gotechie.ml)
+- 📝 I regulary write articles on ----- New Blog Page will be updated soon.
 
-- 💬 Ask me about **Cyber-Security, CTF , Pentesting**
+- 💬 Ask me about **Cyber-Security, CTF , Cloud, DevOps and Cloud Security**
 
 - 📫 How to reach me **shivanshus133@gmail.com**
 
